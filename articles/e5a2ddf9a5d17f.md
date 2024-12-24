@@ -3,7 +3,7 @@ title: "OSSから学ぶGo Generics"
 emoji: "🏃"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Go","generics","Tech"]
-published: false
+published: true
 ---
 
 Generics使うの難しいから事例から学ぼう運動

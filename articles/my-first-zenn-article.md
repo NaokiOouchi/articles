@@ -3,7 +3,7 @@ title: "複数リポジトリで copilot-instructions.md を一元管理する"
 emoji: "🔄"
 type: "tech"
 topics: ["GitHub", "GitHubActions", "Copilot", "運用"]
-published: false
+published: true
 ---
 
 ## はじめに
